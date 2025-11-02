@@ -1,0 +1,21 @@
+# Benchmark artefacts
+concorrencia/go/data/
+concorrencia/java/data/
+concorrencia/dados_pc/
+concorrencia/python/data_py/
+concorrencia/python/dados_py/
+concorrencia/python/concorrencia/
+
+# Intermediários/compilados
+concorrencia/python/__pycache__/
+concorrencia/java/*.class
+paralelismo/cpp_omp/matmul
+paralelismo/cpp_omp/stencil
+paralelismo/cpp_omp/mcpi
+
+# Padrões gerais
+*.pyc
+*.class
+*.o
+*.out
+*.exe
